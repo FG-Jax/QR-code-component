@@ -17,7 +17,7 @@ For my first unassisted html/css project, I decided to try to recreate this desi
 
 ## Screenshot
 
-![Design preview for the QR code component coding challenge](./images/screenshot.jpg)
+![Design preview for the QR code component coding challenge](./images/screenshot.png)
 
 ## Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
